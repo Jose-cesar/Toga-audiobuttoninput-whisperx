@@ -3,3 +3,4 @@ miniaudio
 torch
 torchaudio
 whisperx
+sounddevice
