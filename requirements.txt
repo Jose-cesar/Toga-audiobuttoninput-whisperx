@@ -1,0 +1,5 @@
+toga
+miniaudio
+torch
+torchaudio
+whisperx
