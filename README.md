@@ -15,6 +15,13 @@ GUI-App mit **Toga**, die einen **Mikrofon-Button** bietet, Audio **lokal aufnim
 - (optional) miniaudio / sounddevice für Recording
 - Git/GitHub, VS Code
 
+## 📸 Demo
+
+So sieht die App aus:  
+
+![App Screenshot](https://github.com/user-attachments/assets/7a2a466f-3a4c-4323-af5c-1752c655f3b3)
+
+
 ## 📦 Installation
 ```bash
 git clone https://github.com/<dein-user>/toga-audioinput-whisperx.git
@@ -26,9 +33,4 @@ python -m venv .venv
 source .venv/bin/activate
 
 pip install -r requirements.txt
-
-📸 Demo
-
-So sieht die App aus:
-<img width="474" height="1210" alt="image" src="https://github.com/user-attachments/assets/7a2a466f-3a4c-4323-af5c-1752c655f3b3" />
 
