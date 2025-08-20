@@ -27,7 +27,8 @@ source .venv/bin/activate
 
 pip install -r requirements.txt
 
-## Demo
-![App Screenshot](https://github.com/user-attachments/assets/ecff6e23-3b6d-43d3-9dbf-0570dea385db)
+📸 Demo
 
+So sieht die App aus:
+<img width="474" height="1210" alt="image" src="https://github.com/user-attachments/assets/7a2a466f-3a4c-4323-af5c-1752c655f3b3" />
 
